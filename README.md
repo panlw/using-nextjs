@@ -19,7 +19,7 @@ add command:
 ```json
 {
   "scripts": {
-    "out": "next export"
+    "spa": "next build && next export"
   }
 }
 ```
