@@ -27,7 +27,7 @@ add command:
 run command
 
 ```sh
-pnpm out
+pnpm spa
 ```
 
 use `./out` by [ran](https://github.com/m3ng9i/ran) or [serve](https://github.com/vercel/serve)
